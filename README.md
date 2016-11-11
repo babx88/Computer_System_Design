@@ -37,7 +37,7 @@ SUN을 JAVA 프로젝트
 하루 동안의 사용자의 UV 노출정도를 측정하여 사용자가 집에서 생활을 할 때, 사용자의 부족한 UV양을 분석하여 사용자에게 충분한 UV양을 줄 수 있도록 UV등의 기능과 일반 등의 기능을 동시에 가지는 등을 개발한다.
 
 
-![readme_img](/static/img/readme_img1.jpg)
+![readme_img](/static/img/readme_img1.jpg "**Figure 1 구성도**")
 ----
 4. 기능적 요구사항
 --- 
